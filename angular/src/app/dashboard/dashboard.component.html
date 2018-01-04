@@ -1,0 +1,33 @@
+<div class="content" *ngIf="sistemas">
+
+  <div-menu-side [sistemas]="sistemas" [abas]="abas" (addTab)="handleAddTab($event)"></div-menu-side>
+
+  <div class="info-fixed-bottom"></div>
+
+  <div class="wrapper min">
+    <div-header (logout)="logout()"></div-header>
+
+    <app-abas-navigator [abas]="abas"></app-abas-navigator>
+
+    <router-outlet></router-outlet>
+
+    <div page-view></div>
+    <div id="copyright" class="text-center">
+      SIAI Analise - Diretoria de Informática/Tribunal de Contas do Rio Grande do Norte
+      <p>Versão 1.0 - <a href="./releases.html" target="_blank" title="Releases">Releases</a></p>
+    </div>
+  </div>
+</div>
+
+<app-relogar></app-relogar>
+<!-- <app-profile></app-profile> -->
+
+<div id="loading">
+  <div class="align">
+    <div class="middle">
+      <svg class="spinner" width="65px" height="65px" viewBox="0 0 66 66" xmlns="http://www.w3.org/2000/svg">
+        <circle class="path" fill="none" stroke-width="6" stroke-linecap="round" cx="33" cy="33" r="30"></circle>
+      </svg>
+    </div>
+  </div>
+</div>

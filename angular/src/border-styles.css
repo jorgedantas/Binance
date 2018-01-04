@@ -1,0 +1,125 @@
+.no-border {
+  border: none;
+}
+
+.border-right {
+  border: none;
+  border-right: 1px solid black;
+}
+
+.border-left {
+  border: none;
+  border-left: 1px solid black;
+}
+
+.border-left-right,
+.border-right-left {
+  border: none;
+  border-right: 1px solid black;
+  border-left: 1px solid black;
+}
+
+.border-bottom {
+  border: none;
+  border-bottom: 1px solid black;
+}
+
+.border-bottom-right,
+.border-right-bottom {
+  border: none;
+  border-bottom: 1px solid black;
+  border-right: 1px solid black;
+}
+
+.border-bottom-left,
+.border-left-bottom {
+  border: none;
+  border-bottom: 1px solid black;
+  border-left: 1px solid black;
+}
+
+.border-bottom-left-right,
+.border-bottom-right-left,
+.border-right-left-bottom,
+.border-right-bottom-left,
+.border-left-right-bottom,
+.border-left-bottom-right {
+  border: none;
+  border-bottom: 1px solid black;
+  border-left: 1px solid black;
+  border-right: 1px solid black;
+}
+
+.border-top {
+  border: none;
+  border-top: 1px solid black;
+}
+
+.border-top-right,
+.border-right-top {
+  border: none;
+  border-top: 1px solid black;
+  border-right: 1px solid black;
+}
+
+.border-top-left,
+.border-left-top {
+  border: none;
+  border-top: 1px solid black;
+  border-left: 1px solid black;
+}
+
+.border-top-left-right,
+.border-top-right-left,
+.border-right-top-left,
+.border-right-left-top,
+.border-left-right-top,
+.border-left-top-right {
+  border: none;
+  border-top: 1px solid black;
+  border-left: 1px solid black;
+  border-right: 1px solid black;
+}
+
+.border-top-bottom,
+.border-bottom-top {
+  border: none;
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+}
+
+.border-top-bottom-left,
+.border-top-left-bottom,
+.border-left-top-bottom,
+.border-left-bottom-top,
+.border-bottom-left-top,
+.border-bottom-top-left {
+  border: none;
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+  border-left: 1px solid black;
+}
+
+.border-top-bottom-right,
+.border-top-right-bottom,
+.border-right-top-bottom,
+.border-right-bottom-top,
+.border-bottom-right-top,
+.border-bottom-top-right {
+  border: none;
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+  border-right: 1px solid black;
+}
+
+.border-all {
+  border: 1px solid black;
+}
+
+td pre {
+  background: transparent;
+  border: none;
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  padding: 5px;
+  margin: 0;
+}

@@ -1,0 +1,750 @@
+[
+    {
+      "idAnexoJson": 13,
+      "nomeAnexo": "ANEXO 1 - DEMONSTRAÇÃO DA RECEITA E DESPESA SEGUNDO AS CATEGORIAS ECONÔMICAS",
+      "tabelas": [
+        {
+          "idTabelaJson": 23,
+          "nomeTabela": "DEMONSTRAÇÃO DA RECEITA E DESPESA SEGUNDO AS CATEGORIAS ECONÔMICAS",
+          "linhas": [
+            {
+              "textoColuna": "RECEITAS CORRENTES",
+              "linha": 1,
+              "tipo": "",
+              "formula": "",
+              "numeroColunas": 1,
+              "hierarquia": "1"
+            },
+            {
+              "textoColuna": "",
+              "linha": 1,
+              "tipo": "F",
+              "formula": "LINHA2COLUNA2+LINHA3COLUNA2+LINHA4COLUNA2+LINHA5COLUNA2+LINHA6COLUNA2+LINHA7COLUNA2+LINHA8COLUNA2+LINHA9COLUNA2",
+              "numeroColunas": 0,
+              "hierarquia": null
+            },
+            {
+              "textoColuna": "DESPESAS CORRENTES",
+              "linha": 1,
+              "tipo": "",
+              "formula": "",
+              "numeroColunas": 1,
+              "hierarquia": "3"
+            },
+            {
+              "textoColuna": "",
+              "linha": 1,
+              "tipo": "F",
+              "formula": "LINHA2COLUNA4+LINHA3COLUNA4+LINHA4COLUNA4",
+              "numeroColunas": 0,
+              "hierarquia": null
+            },
+            {
+              "textoColuna": "Receita Tributária",
+              "linha": 2,
+              "tipo": "",
+              "formula": "",
+              "numeroColunas": 1,
+              "hierarquia": "1.1"
+            },
+            {
+              "textoColuna": "",
+              "linha": 2,
+              "tipo": "L",
+              "formula": "",
+              "numeroColunas": 0,
+              "hierarquia": null
+            },
+            {
+              "textoColuna": "Pessoal e Encargos Sociais",
+              "linha": 2,
+              "tipo": "",
+              "formula": "",
+              "numeroColunas": 1,
+              "hierarquia": "3.1"
+            },
+            {
+              "textoColuna": "",
+              "linha": 2,
+              "tipo": "L",
+              "formula": "",
+              "numeroColunas": 0,
+              "hierarquia": null
+            },
+            {
+              "textoColuna": "Receita de Contribuições",
+              "linha": 3,
+              "tipo": "",
+              "formula": "",
+              "numeroColunas": 1,
+              "hierarquia": "1.2"
+            },
+            {
+              "textoColuna": "",
+              "linha": 3,
+              "tipo": "L",
+              "formula": "",
+              "numeroColunas": 0,
+              "hierarquia": null
+            },
+            {
+              "textoColuna": "Juros e Encargos da Dívida",
+              "linha": 3,
+              "tipo": "",
+              "formula": "",
+              "numeroColunas": 1,
+              "hierarquia": "3.2"
+            },
+            {
+              "textoColuna": "",
+              "linha": 3,
+              "tipo": "L",
+              "formula": "",
+              "numeroColunas": 0,
+              "hierarquia": null
+            },
+            {
+              "textoColuna": "Receita Patrimonial",
+              "linha": 4,
+              "tipo": "",
+              "formula": "",
+              "numeroColunas": 1,
+              "hierarquia": "1.3"
+            },
+            {
+              "textoColuna": "",
+              "linha": 4,
+              "tipo": "L",
+              "formula": "",
+              "numeroColunas": 0,
+              "hierarquia": null
+            },
+            {
+              "textoColuna": "Outras Despesas Correntes",
+              "linha": 4,
+              "tipo": "",
+              "formula": "",
+              "numeroColunas": 1,
+              "hierarquia": "3.3"
+            },
+            {
+              "textoColuna": "",
+              "linha": 4,
+              "tipo": "L",
+              "formula": "",
+              "numeroColunas": 0,
+              "hierarquia": null
+            },
+            {
+              "textoColuna": "Receita Agropecuária",
+              "linha": 5,
+              "tipo": "",
+              "formula": "",
+              "numeroColunas": 1,
+              "hierarquia": "1.4"
+            },
+            {
+              "textoColuna": "",
+              "linha": 5,
+              "tipo": "L",
+              "formula": "",
+              "numeroColunas": 0,
+              "hierarquia": null
+            },
+            {
+              "textoColuna": "Receita Industrial",
+              "linha": 6,
+              "tipo": "",
+              "formula": "",
+              "numeroColunas": 1,
+              "hierarquia": "1.5"
+            },
+            {
+              "textoColuna": "",
+              "linha": 6,
+              "tipo": "L",
+              "formula": "",
+              "numeroColunas": 0,
+              "hierarquia": null
+            },
+            {
+              "textoColuna": "Receita de Serviços",
+              "linha": 7,
+              "tipo": "",
+              "formula": "",
+              "numeroColunas": 1,
+              "hierarquia": "1.6"
+            },
+            {
+              "textoColuna": "",
+              "linha": 7,
+              "tipo": "L",
+              "formula": "",
+              "numeroColunas": 0,
+              "hierarquia": null
+            },
+            {
+              "textoColuna": "Transferências Correntes",
+              "linha": 8,
+              "tipo": "",
+              "formula": "",
+              "numeroColunas": 1,
+              "hierarquia": "1.7"
+            },
+            {
+              "textoColuna": "",
+              "linha": 8,
+              "tipo": "L",
+              "formula": "",
+              "numeroColunas": 0,
+              "hierarquia": null
+            },
+            {
+              "textoColuna": "Outras Receitas Correntes",
+              "linha": 9,
+              "tipo": "",
+              "formula": "",
+              "numeroColunas": 1,
+              "hierarquia": "1.8"
+            },
+            {
+              "textoColuna": "",
+              "linha": 9,
+              "tipo": "L",
+              "formula": "",
+              "numeroColunas": 0,
+              "hierarquia": null
+            },
+            {
+              "textoColuna": "( - ) DEDUÇÕES DA RECEITA",
+              "linha": 10,
+              "tipo": "",
+              "formula": "",
+              "numeroColunas": 1,
+              "hierarquia": "2"
+            },
+            {
+              "textoColuna": "",
+              "linha": 10,
+              "tipo": "F",
+              "formula": "LINHA11COLUNA2+LINHA12COLUNA2+LINHA13COLUNA2",
+              "numeroColunas": 0,
+              "hierarquia": null
+            },
+            {
+              "textoColuna": "Restituições",
+              "linha": 11,
+              "tipo": "",
+              "formula": "",
+              "numeroColunas": 1,
+              "hierarquia": "2.1"
+            },
+            {
+              "textoColuna": "",
+              "linha": 11,
+              "tipo": "L",
+              "formula": "",
+              "numeroColunas": 0,
+              "hierarquia": null
+            },
+            {
+              "textoColuna": "Transferências ao Fundeb",
+              "linha": 12,
+              "tipo": "",
+              "formula": "",
+              "numeroColunas": 1,
+              "hierarquia": "2.2"
+            },
+            {
+              "textoColuna": "",
+              "linha": 12,
+              "tipo": "L",
+              "formula": "",
+              "numeroColunas": 0,
+              "hierarquia": null
+            },
+            {
+              "textoColuna": "Outras Deduções",
+              "linha": 13,
+              "tipo": "",
+              "formula": "",
+              "numeroColunas": 1,
+              "hierarquia": "2.3"
+            },
+            {
+              "textoColuna": "",
+              "linha": 13,
+              "tipo": "L",
+              "formula": "",
+              "numeroColunas": 0,
+              "hierarquia": null
+            },
+            {
+              "textoColuna": "SUBTOTAL",
+              "linha": 14,
+              "tipo": "",
+              "formula": "",
+              "numeroColunas": 1,
+              "hierarquia": ""
+            },
+            {
+              "textoColuna": "",
+              "linha": 14,
+              "tipo": "F",
+              "formula": "LINHA1COLUNA2-LINHA10COLUNA2",
+              "numeroColunas": 0,
+              "hierarquia": null
+            },
+            {
+              "textoColuna": "SUBTOTAL",
+              "linha": 14,
+              "tipo": "",
+              "formula": "",
+              "numeroColunas": 1,
+              "hierarquia": ""
+            },
+            {
+              "textoColuna": "",
+              "linha": 14,
+              "tipo": "F",
+              "formula": "LINHA1COLUNA4",
+              "numeroColunas": 0,
+              "hierarquia": null
+            },
+            {
+              "textoColuna": "Déficit Corrente (se ocorrer)",
+              "linha": 15,
+              "tipo": "",
+              "formula": "",
+              "numeroColunas": 1,
+              "hierarquia": ""
+            },
+            {
+              "textoColuna": "",
+              "linha": 15,
+              "tipo": "F",
+              "formula": "((LINHA14COLUNA2-LINHA14COLUNA4)<0):(LINHA14COLUNA4-LINHA14COLUNA2);0",
+              "numeroColunas": 0,
+              "hierarquia": null
+            },
+            {
+              "textoColuna": "Superávit Corrente (se ocorrer)",
+              "linha": 15,
+              "tipo": "",
+              "formula": "",
+              "numeroColunas": 1,
+              "hierarquia": ""
+            },
+            {
+              "textoColuna": "",
+              "linha": 15,
+              "tipo": "F",
+              "formula": "((LINHA14COLUNA2-LINHA14COLUNA4)>0):(LINHA14COLUNA2-LINHA14COLUNA4);0",
+              "numeroColunas": 0,
+              "hierarquia": null
+            },
+            {
+              "textoColuna": "TOTAL",
+              "linha": 16,
+              "tipo": "",
+              "formula": "",
+              "numeroColunas": 1,
+              "hierarquia": ""
+            },
+            {
+              "textoColuna": "",
+              "linha": 16,
+              "tipo": "F",
+              "formula": "LINHA14COLUNA2+LINHA15COLUNA2",
+              "numeroColunas": 0,
+              "hierarquia": null
+            },
+            {
+              "textoColuna": "TOTAL",
+              "linha": 16,
+              "tipo": "",
+              "formula": "",
+              "numeroColunas": 1,
+              "hierarquia": ""
+            },
+            {
+              "textoColuna": "",
+              "linha": 16,
+              "tipo": "F",
+              "formula": "LINHA14COLUNA4+LINHA15COLUNA4",
+              "numeroColunas": 0,
+              "hierarquia": null
+            },
+            {
+              "textoColuna": "Superávit do Orçamento Corrente",
+              "linha": 17,
+              "tipo": "",
+              "formula": "",
+              "numeroColunas": 1,
+              "hierarquia": ""
+            },
+            {
+              "textoColuna": "",
+              "linha": 17,
+              "tipo": "F",
+              "formula": "LINHA15COLUNA4",
+              "numeroColunas": 0,
+              "hierarquia": null
+            },
+            {
+              "textoColuna": "Déficit do Orçamento Corrente",
+              "linha": 17,
+              "tipo": "",
+              "formula": "",
+              "numeroColunas": 1,
+              "hierarquia": ""
+            },
+            {
+              "textoColuna": "",
+              "linha": 17,
+              "tipo": "F",
+              "formula": "LINHA15COLUNA2",
+              "numeroColunas": 0,
+              "hierarquia": null
+            },
+            {
+              "textoColuna": "RECEITAS DE CAPITAL",
+              "linha": 18,
+              "tipo": "",
+              "formula": "",
+              "numeroColunas": 1,
+              "hierarquia": "4"
+            },
+            {
+              "textoColuna": "",
+              "linha": 18,
+              "tipo": "F",
+              "formula": "LINHA19COLUNA2+LINHA20COLUNA2+LINHA21COLUNA2+LINHA22COLUNA2+LINHA23COLUNA2",
+              "numeroColunas": 0,
+              "hierarquia": null
+            },
+            {
+              "textoColuna": "DESPESAS DE CAPITAL",
+              "linha": 18,
+              "tipo": "",
+              "formula": "",
+              "numeroColunas": 1,
+              "hierarquia": "5"
+            },
+            {
+              "textoColuna": "",
+              "linha": 18,
+              "tipo": "F",
+              "formula": "LINHA19COLUNA4+LINHA20COLUNA4+LINHA21COLUNA4",
+              "numeroColunas": 0,
+              "hierarquia": null
+            },
+            {
+              "textoColuna": "Operações de Crédito",
+              "linha": 19,
+              "tipo": "",
+              "formula": "",
+              "numeroColunas": 1,
+              "hierarquia": "4.1"
+            },
+            {
+              "textoColuna": "",
+              "linha": 19,
+              "tipo": "L",
+              "formula": "",
+              "numeroColunas": 0,
+              "hierarquia": null
+            },
+            {
+              "textoColuna": "Investimentos",
+              "linha": 19,
+              "tipo": "",
+              "formula": "",
+              "numeroColunas": 1,
+              "hierarquia": "5.1"
+            },
+            {
+              "textoColuna": "",
+              "linha": 19,
+              "tipo": "L",
+              "formula": "",
+              "numeroColunas": 0,
+              "hierarquia": null
+            },
+            {
+              "textoColuna": "Alienação de Bens",
+              "linha": 20,
+              "tipo": "",
+              "formula": "",
+              "numeroColunas": 1,
+              "hierarquia": "4.2"
+            },
+            {
+              "textoColuna": "",
+              "linha": 20,
+              "tipo": "L",
+              "formula": "",
+              "numeroColunas": 0,
+              "hierarquia": null
+            },
+            {
+              "textoColuna": "Inversões Financeiras",
+              "linha": 20,
+              "tipo": "",
+              "formula": "",
+              "numeroColunas": 1,
+              "hierarquia": "5.2"
+            },
+            {
+              "textoColuna": "",
+              "linha": 20,
+              "tipo": "L",
+              "formula": "",
+              "numeroColunas": 0,
+              "hierarquia": null
+            },
+            {
+              "textoColuna": "Amortização de Empréstimos",
+              "linha": 21,
+              "tipo": "",
+              "formula": "",
+              "numeroColunas": 1,
+              "hierarquia": "4.3"
+            },
+            {
+              "textoColuna": "",
+              "linha": 21,
+              "tipo": "L",
+              "formula": "",
+              "numeroColunas": 0,
+              "hierarquia": null
+            },
+            {
+              "textoColuna": "Amortização da Dívida",
+              "linha": 21,
+              "tipo": "",
+              "formula": "",
+              "numeroColunas": 1,
+              "hierarquia": "5.3"
+            },
+            {
+              "textoColuna": "",
+              "linha": 21,
+              "tipo": "L",
+              "formula": "",
+              "numeroColunas": 0,
+              "hierarquia": null
+            },
+            {
+              "textoColuna": "Transferências de Capital",
+              "linha": 22,
+              "tipo": "",
+              "formula": "",
+              "numeroColunas": 1,
+              "hierarquia": "4.4"
+            },
+            {
+              "textoColuna": "",
+              "linha": 22,
+              "tipo": "L",
+              "formula": "",
+              "numeroColunas": 0,
+              "hierarquia": null
+            },
+            {
+              "textoColuna": "Outras Receitas de Capital",
+              "linha": 23,
+              "tipo": "",
+              "formula": "",
+              "numeroColunas": 1,
+              "hierarquia": "4.5"
+            },
+            {
+              "textoColuna": "",
+              "linha": 23,
+              "tipo": "L",
+              "formula": "",
+              "numeroColunas": 0,
+              "hierarquia": null
+            },
+            {
+              "textoColuna": "RESERVA DE CONTINGÊNCIA",
+              "linha": 23,
+              "tipo": "",
+              "formula": "",
+              "numeroColunas": 1,
+              "hierarquia": ""
+            },
+            {
+              "textoColuna": "",
+              "linha": 23,
+              "tipo": "L",
+              "formula": "",
+              "numeroColunas": 0,
+              "hierarquia": null
+            },
+            {
+              "textoColuna": "TOTAL",
+              "linha": 24,
+              "tipo": "",
+              "formula": "",
+              "numeroColunas": 1,
+              "hierarquia": ""
+            },
+            {
+              "textoColuna": "",
+              "linha": 24,
+              "tipo": "F",
+              "formula": "LINHA17COLUNA2+LINHA18COLUNA2",
+              "numeroColunas": 0,
+              "hierarquia": null
+            },
+            {
+              "textoColuna": "TOTAL",
+              "linha": 24,
+              "tipo": "",
+              "formula": "",
+              "numeroColunas": 1,
+              "hierarquia": ""
+            },
+            {
+              "textoColuna": "",
+              "linha": 24,
+              "tipo": "F",
+              "formula": "LINHA18COLUNA4+LINHA23COLUNA4",
+              "numeroColunas": 0,
+              "hierarquia": null
+            },
+            {
+              "textoColuna": "RECEITAS INTRAORÇAMENTÁRIAS",
+              "linha": 25,
+              "tipo": "",
+              "formula": "",
+              "numeroColunas": 1,
+              "hierarquia": ""
+            },
+            {
+              "textoColuna": "",
+              "linha": 25,
+              "tipo": "L",
+              "formula": "",
+              "numeroColunas": 0,
+              "hierarquia": null
+            },
+            {
+              "textoColuna": "RESUMO",
+              "linha": 26,
+              "tipo": "",
+              "formula": "",
+              "numeroColunas": 4,
+              "hierarquia": ""
+            },
+            {
+              "textoColuna": "",
+              "linha": 26,
+              "tipo": "",
+              "formula": "",
+              "numeroColunas": 0,
+              "hierarquia": null
+            },
+            {
+              "textoColuna": "RECEITAS CORRENTES",
+              "linha": 27,
+              "tipo": "",
+              "formula": "",
+              "numeroColunas": 1,
+              "hierarquia": ""
+            },
+            {
+              "textoColuna": "",
+              "linha": 27,
+              "tipo": "F",
+              "formula": "LINHA14COLUNA2",
+              "numeroColunas": 0,
+              "hierarquia": null
+            },
+            {
+              "textoColuna": "DESPESAS CORRENTES",
+              "linha": 27,
+              "tipo": "",
+              "formula": "",
+              "numeroColunas": 1,
+              "hierarquia": ""
+            },
+            {
+              "textoColuna": "",
+              "linha": 27,
+              "tipo": "F",
+              "formula": "LINHA14COLUNA4",
+              "numeroColunas": 0,
+              "hierarquia": null
+            },
+            {
+              "textoColuna": "RECEITAS DE CAPITAL",
+              "linha": 28,
+              "tipo": "",
+              "formula": "",
+              "numeroColunas": 1,
+              "hierarquia": ""
+            },
+            {
+              "textoColuna": "",
+              "linha": 28,
+              "tipo": "F",
+              "formula": "LINHA18COLUNA2",
+              "numeroColunas": 0,
+              "hierarquia": null
+            },
+            {
+              "textoColuna": "DESPESAS DE CAPITAL",
+              "linha": 28,
+              "tipo": "",
+              "formula": "",
+              "numeroColunas": 1,
+              "hierarquia": ""
+            },
+            {
+              "textoColuna": "",
+              "linha": 28,
+              "tipo": "F",
+              "formula": "LINHA18COLUNA4",
+              "numeroColunas": 0,
+              "hierarquia": null
+            },
+            {
+              "textoColuna": "RECEITAS INTRAORÇAMENTÁRIAS",
+              "linha": 29,
+              "tipo": "",
+              "formula": "",
+              "numeroColunas": 1,
+              "hierarquia": ""
+            },
+            {
+              "textoColuna": "",
+              "linha": 29,
+              "tipo": "F",
+              "formula": "LINHA25COLUNA2",
+              "numeroColunas": 0,
+              "hierarquia": null
+            },
+            {
+              "textoColuna": "RESERVA DE CONTINGÊNCIA",
+              "linha": 29,
+              "tipo": "",
+              "formula": "",
+              "numeroColunas": 1,
+              "hierarquia": ""
+            },
+            {
+              "textoColuna": "",
+              "linha": 29,
+              "tipo": "F",
+              "formula": "LINHA23COLUNA4",
+              "numeroColunas": 0,
+              "hierarquia": null
+            }
+          ]
+        }
+      ]
+    }
+  ]

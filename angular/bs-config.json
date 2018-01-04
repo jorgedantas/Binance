@@ -1,0 +1,10 @@
+{
+  "port": 4200,
+  "server": {
+    "baseDir": "src",
+    "routes": {
+      "/node_modules": "node_modules",
+      "/dist/bower_components/": "src/assets/bower_components/"
+    }
+  }
+}

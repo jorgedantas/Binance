@@ -1,0 +1,32 @@
+<div class="container-fluid component-view" id="Anexo16Component">
+    <!-- <pre>
+      {{linhas | json}}
+    </pre> -->
+    <div class="table-content"> 
+      <h4 class="text-center">{{anexo}}</h4>
+      <p></p>
+      <table class="table table-bordered">
+        <thead >
+          <tr>
+            <th class="text-center">RECEITA</th>
+            <th class="text-center">R$</th>
+            <th class="text-center">DESPESA</th>
+            <th class="text-center">R$</th>
+          </tr>
+        </thead>
+        <tbody>    
+            
+          <tr *ngFor="let l of linhas;" >
+            
+            <td *ngFor="let d of l"  [ngClass]="(d.tipo == 'L' || d.tipo == 'F')?'text-center':''" >
+            <label *ngIf="d.textoColuna != '' && !d.hierarquia.includes('.') "  >  {{d.textoColuna}} </label> 
+            <label *ngIf="d.textoColuna != '' && d.hierarquia.includes('.') ">  &nbsp; &nbsp; &nbsp; {{d.textoColuna}} </label>
+            <input *ngIf="d.tipo == 'L' " type="text">
+            <label *ngIf="d.tipo == 'F' " >x </label>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    
+    </div>

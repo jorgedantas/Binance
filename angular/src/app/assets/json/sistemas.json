@@ -1,0 +1,22 @@
+[{
+  "Sistema": "Contas de Governo",
+  "Title": "SIAI Análise",
+  "Paginas": [{
+    "Pagina": "Anexo01",
+    "Title": "Anexo 01",
+    "Description": "ANEXO 1 - DEMONSTRAÇÃO DA RECEITA E DESPESA SEGUNDO AS CATEGORIAS ECONÔMICAS ",
+    "Icon" : "file-text"
+  },{
+    "Pagina": "Anexo02",
+    "Title": "Anexo 02",
+    "Description": "ANEXO 2 - DESPESA SEGUNDO AS CATEGORIAS ECONÔMICAS - CONSOLIDADA ",
+    "Icon" : "file-text"
+  },{
+    "Pagina": "Anexo06",
+    "Title": "Anexo 06",
+    "Description": "ANEXO 6  ",
+    "Icon" : "file-text"
+  }],
+  "Modulos": [   ]
+}
+]

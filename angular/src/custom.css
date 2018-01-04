@@ -1,0 +1,12 @@
+.credor .btn-default, .view .btn-default{
+	position: absolute;
+	right:0;
+	top:0;
+	border-radius:0px 4px 4px 0;
+}
+.view .form-group .form-control{
+	padding-right: 95px;
+}
+.red{
+  color:#ec2020 !important;
+}
